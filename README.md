@@ -1,6 +1,8 @@
 Hello, I’m Hasan! A married Muslim guy with one kid.
 
-I mainly write in Java and Javascript and I’m interested in React, Spring, Kubernetes and Devops in general. I’m currently learning about Quarkus and Keycloak.
+Currently I'm working as a DevOps Engineer using Kubernetes, Rancher, Gitlab CI and ArgoCD
+
+I mainly write in Java and Javascript and sometimes .Net. I’m interested in NodeJs, React, Spring, Kubernetes and Devops in general.
 
 Also, I love dragons and cats!
 
